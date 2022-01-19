@@ -1,4 +1,4 @@
-## Zhengwei (Will) Ma
+## William Ma
 
 Thanks for checking out my profile! I'm a senior machine learning engineer based in NYC.
 
