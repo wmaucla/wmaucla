@@ -11,6 +11,8 @@ Of course, please check out my [website](https://www.zhengweima.com/), and check
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+See some stats from my professional github account!
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willmashipt&hide=stars&count_private=true&show_icons=true&theme=dark" />
 </a>
