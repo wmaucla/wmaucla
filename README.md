@@ -1,6 +1,6 @@
 ## William Ma
 
-Thanks for checking out my profile! I'm a senior machine learning engineer based in NYC.
+Thanks for checking out my profile! I'm a senior machine learning engineer based in NYC. Nice to meet you!
 
 - I'm currently working on developing my engineering skills
 - Reach me on [LinkedIn](https://www.linkedin.com/in/williammaucla)
@@ -8,7 +8,7 @@ Thanks for checking out my profile! I'm a senior machine learning engineer based
 
 Of course, please check out my [website](https://www.zhengweima.com/).
 
-Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats!
+Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats! I'm very active on my company github
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willmashipt&hide=stars&count_private=true&show_icons=true&theme=dark" />
