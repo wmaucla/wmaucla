@@ -10,14 +10,6 @@ Of course, please check out my [website](https://www.zhengweima.com/).
 
 Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats for my former company, Shipt!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willmashipt&hide=stars&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=willmashipt&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
