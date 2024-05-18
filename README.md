@@ -8,7 +8,7 @@ Thanks for checking out my profile! I'm a senior machine learning engineer based
 
 Of course, please check out my [website](https://www.zhengweima.com/).
 
-Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats! I'm very active on my company github
+Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats for my former company, Shipt!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=willmashipt&hide=stars&count_private=true&show_icons=true&theme=dark" />
