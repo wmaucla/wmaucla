@@ -6,7 +6,7 @@ Thanks for checking out my profile! I'm a senior machine learning engineer based
 - Reach me on [LinkedIn](https://www.linkedin.com/in/williammaucla)
 - If I'm not tinkering with code I might be reading something, so check out my [Zotero](https://www.zotero.org/groups/2583428/williams_reading_list/library)
 
-Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats for my former company, Shipt!
+Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. Finally, check out my work github [here](https://github.com/willmashipt) to see my contribution stats for my former company, Shipt prior to 2025!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
