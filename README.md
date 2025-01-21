@@ -1,6 +1,6 @@
 ## William Ma
 
-Thanks for checking out my profile! I'm a senior machine learning engineer based in NYC. Nice to meet you!
+Thanks for checking out my profile! I'm a staff machine learning engineer based in NYC. Nice to meet you!
 
 - I'm currently working on developing my engineering skills
 - Reach me on [LinkedIn](https://www.linkedin.com/in/williammaucla)
