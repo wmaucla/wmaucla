@@ -8,6 +8,12 @@ Thanks for checking out my profile! I'm a staff machine learning engineer based 
 
 Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. Check out my work github [here](https://github.com/willmashipt) to see my contribution stats for my former company, Shipt prior to 2025 and my gitlab [here](https://gitlab.com/wma7) to see my contribution stats for my current company, Attain.
 
+#### Feature Projects
+
+* [Will-I-Am GPT](https://github.com/wmaucla/will-i-am-gpt) a RAG based application
+* [MLOps-Kubernetes](https://github.com/wmaucla/mlops-kubernetes) a sample ML pipeline deployed via K8s
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
