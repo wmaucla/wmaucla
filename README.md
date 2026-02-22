@@ -7,15 +7,10 @@ Thanks for checking out my profile! I'm a ML engineering manager based in NYC. N
 
 Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. Check out my gitlab [here](https://gitlab.com/wma7) to see my contribution stats for my current company, Attain. I was also very active at my old company, so please check out my work github [here](https://github.com/willmashipt).
 
-#### Feature Projects
-
-* [Will-I-Am GPT](https://github.com/wmaucla/will-i-am-gpt) a RAG based application
-* [MLOps-Kubernetes](https://github.com/wmaucla/mlops-kubernetes) a sample ML pipeline deployed via K8s
-
+#### Expertise
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
