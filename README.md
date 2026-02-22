@@ -6,7 +6,7 @@ Thanks for checking out my profile! I'm a staff machine learning engineer based 
 - Reach me on [LinkedIn](https://www.linkedin.com/in/williammaucla)
 - If I'm not tinkering with code I might be reading something, so check out my [Zotero](https://www.zotero.org/groups/2583428/williams_reading_list/library)
 
-Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. Check out my work github [here](https://github.com/willmashipt) to see my contribution stats for my former company, Shipt prior to 2025 and my gitlab [here](https://gitlab.com/wma7) to see my contribution stats for my current company, Attain.
+Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. Check out my gitlab [here](https://gitlab.com/wma7) to see my contribution stats for my current company, Attain. I was also very active at my old company, so please check out my work github [here](https://github.com/willmashipt).
 
 #### Feature Projects
 
