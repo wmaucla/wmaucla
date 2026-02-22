@@ -5,7 +5,7 @@ Thanks for checking out my profile! I'm a ML engineering manager based in NYC. N
 - Reach me on [LinkedIn](https://www.linkedin.com/in/williammaucla)
 - If I'm not tinkering with code I might be reading something, so check out my [Zotero](https://www.zotero.org/groups/2583428/williams_reading_list/library)
 
-Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. I am a top contributor at my current company Attain, which you can see [here](https://gitlab.com/wma7). I was also very active at my old company which you can check out [here](https://github.com/willmashipt).
+Of course, please check out my [website](https://www.zhengweima.com/) for more details or explore my public repos. I am a top contributor at my current company Attain, which you can see [here](https://gitlab.com/wma7). I was also very active at my old company which you can check out [here](https://github.com/willmashipt) (6000+ contributions).
 
 #### Expertise
 
